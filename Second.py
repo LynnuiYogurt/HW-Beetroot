@@ -1,0 +1,1 @@
+print(f'Hello {input("Your name:")}, on your next birthday you’ll be {int(input("Your age: "))+1} years')
